@@ -1,0 +1,23 @@
+{
+  "name": "COMP125-S2016-Lab3",
+  "homepage": "https://github.com/300872772/COMP125-S2016-Lab3",
+  "authors": [
+    "300872772 <mamun_131@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
