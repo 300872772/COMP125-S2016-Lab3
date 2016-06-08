@@ -1,3 +1,10 @@
+/**
+ * this is Lab3 web application which includes bower and google font include lesson 
+ * @Author Md Mamunur Rahman
+ * @Version 0.0.3 Added all decoration
+ * @Last Update 06-june-2016
+ */
+
 /* main JavaScript file */
 // IIFE - Immediately Invoked Function Expression
 (function(){
